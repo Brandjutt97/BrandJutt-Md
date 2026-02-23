@@ -1,4 +1,4 @@
-
+[Brandjutt Logo] (bot-logo.png).
 
 <!-- Full Enhanced & Color-Boosted README (No Lines Missing , No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
 
